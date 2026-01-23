@@ -1,6 +1,3 @@
-# it-fundations
-# Learning Journey – IT Foundations 
-
 Hi! I'm Edu, an IT student focusing on building strong foundations in:
 
 - Java 
